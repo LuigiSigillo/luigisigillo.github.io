@@ -2,96 +2,109 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Luigi Sigillo
     - name: Date of Birth
-      value: 14th March 1879
+      value: March 1998
     - name: Languages
-      value: English, German
+      value: English, Italian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D in Information and Communication Technology
+      institution: Sapienza University of Rome, Rome, Italy
+      year: 2025
+      description:
+        - Generative AI
+    - title: M.S. in Engineering in Computer Science
+      institution: Sapienza University of Rome, Rome, Italy
+      year: 2021
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: B.S. in Computer Science and Engineering
+      institution: Università degli Studi di Roma Tre, Rome, Italy
+      year: 2021
       description:
         - Description 1.
         - Description 2.
-
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Cloud Engineer
+      institution: Claranet Italia
+      year: 03/2019 - 06/2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Serverless architectures on AWS
+
+    - title: Machine Learning Engineer
+      institution: omninext
+      year: 03/2022 - 05/2022
       description:
-        - Description 1.
-        - Description 2.
+        - Deep learning for photovoltaic energy predictions
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Conference Talks
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: "StawGAN Structural-Aware Generative Adversarial Networks for Infrared Image Translation"
+      year: 2023
+      description: Presentation in session Artificial Intelligence in Nonlinear Circuits & Systems held in Monterey, USA.
+    - title: "A transformer-based model for vessel route forecasting"
+      year: 2023
+      description: Presentation in session Industry Session held in Rome, IT.
 
-- title: Honors and Awards
+- title: Other Academic Activities
   type: time_table
   contents:
-    - year: 1921
+    - title: Teaching Assistant 
+      year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Master's degree course <u>Machine Learning for Signal Processing</u> at Sapienza University of Rome.
+    - title: Winner of funding
+      year: 2024
       items:
-        - Max Planck Medal
+        - Winner of funding "Projects for Starting Research - Type 1" promoted by Sapienza, with the project "Wavelets Diffusion Models for Image Super-Resolution".
+    - title: Invited Reviewer at IEEE WCCI 2024. 
+      year: 2024
+    - title: Invited Reviewer at IEEE MLSP 2023.
+      year: 2023
+    - title: Invited Reviewer at IEEE ICASSP 2023. 
+      year: 2023
 
-- title: Academic Interests
+- title: Projects
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: <a href="https://github.com/LuigiSigillo/CartoonGAN"> CartoonGAN</a>
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        -  Testing and Implementation of "CartoonGAN Generative Adversarial Networks for Photo Cartoonization".
 
-- title: Other Interests
-  type: list
+    - title: <a href="https://github.com/LuigiSigillo/Aviation-accidents-visualizations"> Aviation Crashes Visualization</a>
+      items:
+        -  Aviation Crashes Visualization D3js to represent information about aircraft crashes such that accidents could be easily plotted, analyzed and understood.
+    - title: <a href="https://github.com/LuigiSigillo/NextRoom"> NextRoom</a>
+      items:
+        -  IoT project meant for Sapienza Smart Museum involving some STM low energy boards. The system suggests to visitors the best rooms to visit according to their tastes and during the Covid19 helps to guarantee social distancing and avoid gatherings.
+    - title: <a href="https://github.com/mattiapocci/PhilosopherRank"> PhilosopherRank</a>
+      items:
+        -   PhilosopherRank a PageRank-based method applied on philosophers' Wikipedia pages to extract influence relations and rank objectively the most influential philosophers
+
+
+- title: Skills
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Languages
+      items:
+        -  Strong reading, writing and speaking competencies for English and Italian.
+    - title: Coding
+      items:
+        -  Python, C#, Java, sql, xml, LATEX, ...
+    - title: Databases
+      items:
+        -  Mysql, Postgresql, mysql, sqlite.
+    - title: Web Dev
+      items:
+        -  Html, css, JavaScript, Apache Web Server, Tomcat Web Server.
+    - title: Misc.
+      items:
+        -  Deep Learning, Machine Learning, Natural Language Processing, Software Engineering, IoT, Visual Analytics, Computer and Network Security.
