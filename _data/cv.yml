@@ -15,34 +15,31 @@
       institution: Sapienza University of Rome, Rome, Italy
       year: 2025
       description:
-        - Generative AI
+        - Generative Deep Learning in the Hypercomplex Domain for High Energy Efficiency Artificial Intelligence Applications
     - title: M.S. in Engineering in Computer Science
       institution: Sapienza University of Rome, Rome, Italy
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - My master thesis title is "Hypercomplex Generative Deep Learning for Image Modality translation"
     - title: B.S. in Computer Science and Engineering
       institution: Università degli Studi di Roma Tre, Rome, Italy
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+      - 
 - title: Experience
   type: time_table
   contents:
-    - title: Cloud Engineer
-      institution: Claranet Italia
-      year: 03/2019 - 06/2019
-      description:
-        - Serverless architectures on AWS
-
     - title: Machine Learning Engineer
       institution: omninext
       year: 03/2022 - 05/2022
       description:
         - Deep learning for photovoltaic energy predictions
-
+    
+    - title: Cloud Engineer
+      institution: Claranet Italia
+      year: 03/2019 - 06/2019
+      description:
+        - Serverless architectures on AWS
 
 - title: Conference Talks
   type: time_table
