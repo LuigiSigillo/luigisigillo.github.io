@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://luigisigillo.github.io//sitemap.xml
+Sitemap: https://luigisigillo.github.io/sitemap.xml
