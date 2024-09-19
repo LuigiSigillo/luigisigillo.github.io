@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yodobashi
+title: ヨドバシカメラ
 date: 2024-09-17 10:25:00
 description: this is what yodobashi look like
 tags: audios yodobashi
@@ -20,7 +20,7 @@ Yodobashi Camera
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include audio.liquid path="assets/audio/yodobashi.m4a" controls=true %}
+        {% include audio.liquid path="assets/audio/yodobashi.m4a" controls=true autoplay=true %}
     </div>
 </div>
 <div class="row mt-3">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FamilyMart
+title: コンビニ
 date: 2024-09-17 10:25:00
 description: this is what familymart look like
 tags: audios familymart
@@ -20,7 +20,7 @@ FamilyMart
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include audio.liquid path="assets/audio/familymart.m4a" controls=true %}
+        {% include audio.liquid path="assets/audio/familymart.m4a" controls=true autoplay=true %}
     </div>
 </div>
 <div class="row mt-3">
