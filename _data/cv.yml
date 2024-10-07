@@ -23,9 +23,9 @@
         - My master thesis title is "Hypercomplex Generative Deep Learning for Image Modality translation"
     - title: B.S. in Computer Science and Engineering
       institution: Università degli Studi di Roma Tre, Rome, Italy
-      year: 2021
+      year: 2019
       description:
-      - 
+      - My bachelor thesis title is "Analysis and development of a system of event correlations in the context of a Serverless application"
 - title: Experience
   type: time_table
   contents:
@@ -34,7 +34,6 @@
       year: 03/2022 - 05/2022
       description:
         - Deep learning for photovoltaic energy predictions
-    
     - title: Cloud Engineer
       institution: Claranet Italia
       year: 03/2019 - 06/2019
@@ -57,7 +56,7 @@
 - title: Other Academic Activities
   type: time_table
   contents:
-    - title: Teaching Assistant 
+    - title: Teaching Assistant
       year: 2024
       items:
         - Master's degree course <u>Machine Learning for Signal Processing</u> at Sapienza University of Rome.
@@ -65,7 +64,7 @@
       year: 2024
       items:
         - Winner of funding "Projects for Starting Research - Type 1" promoted by Sapienza, with the project "Wavelets Diffusion Models for Image Super-Resolution".
-    - title: Invited Reviewer at IEEE WCCI 2024. 
+    - title: Invited Reviewer at IEEE WCCI 2024.
       year: 2024
     - title: Invited Reviewer at IEEE MLSP 2023.
       year: 2023
@@ -77,17 +76,17 @@
   contents:
     - title: <a href="https://github.com/LuigiSigillo/CartoonGAN"> CartoonGAN</a>
       items:
-        -  Testing and Implementation of "CartoonGAN Generative Adversarial Networks for Photo Cartoonization".
+        - Testing and Implementation of "CartoonGAN Generative Adversarial Networks for Photo Cartoonization".
 
     - title: <a href="https://github.com/LuigiSigillo/Aviation-accidents-visualizations"> Aviation Crashes Visualization</a>
       items:
-        -  Aviation Crashes Visualization D3js to represent information about aircraft crashes such that accidents could be easily plotted, analyzed and understood.
+        - Aviation Crashes Visualization D3js to represent information about aircraft crashes such that accidents could be easily plotted, analyzed and understood.
     - title: <a href="https://github.com/LuigiSigillo/NextRoom"> NextRoom</a>
       items:
-        -  IoT project meant for Sapienza Smart Museum involving some STM low energy boards. The system suggests to visitors the best rooms to visit according to their tastes and during the Covid19 helps to guarantee social distancing and avoid gatherings.
+        - IoT project meant for Sapienza Smart Museum involving some STM low energy boards. The system suggests to visitors the best rooms to visit according to their tastes and during the Covid19 helps to guarantee social distancing and avoid gatherings.
     - title: <a href="https://github.com/mattiapocci/PhilosopherRank"> PhilosopherRank</a>
       items:
-        -   PhilosopherRank a PageRank-based method applied on philosophers' Wikipedia pages to extract influence relations and rank objectively the most influential philosophers
+        - PhilosopherRank a PageRank-based method applied on philosophers' Wikipedia pages to extract influence relations and rank objectively the most influential philosophers
 
 
 - title: Skills
@@ -95,16 +94,16 @@
   contents:
     - title: Languages
       items:
-        -  Strong reading, writing and speaking competencies for English and Italian.
+        - Strong reading, writing and speaking competencies for English and Italian.
     - title: Coding
       items:
-        -  Python, C#, Java, sql, xml, LATEX, ...
+        - Python, C#, Java, sql, xml, LATEX, ...
     - title: Databases
       items:
-        -  Mysql, Postgresql, mysql, sqlite.
+        - Mysql, Postgresql, mysql, sqlite.
     - title: Web Dev
       items:
-        -  Html, css, JavaScript, Apache Web Server, Tomcat Web Server.
+        - Html, css, JavaScript, Apache Web Server, Tomcat Web Server.
     - title: Misc.
       items:
-        -  Deep Learning, Machine Learning, Natural Language Processing, Software Engineering, IoT, Visual Analytics, Computer and Network Security.
+        - Deep Learning, Machine Learning, Natural Language Processing, Software Engineering, IoT, Visual Analytics, Computer and Network Security.
