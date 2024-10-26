@@ -71,7 +71,7 @@
     - title: Invited Reviewer at IEEE ICASSP 2023. 
       year: 2023
 
-- title: Projects
+- title: Academic Projects
   type: nested_list
   contents:
     - title: <a href="https://github.com/LuigiSigillo/CartoonGAN"> CartoonGAN</a>

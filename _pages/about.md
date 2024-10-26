@@ -24,3 +24,5 @@ I am a member👨‍🔬 of the [ISPAMM Lab](https://www.ispamm.it/), supervised
 I completed the **BSc** at [Roma Tre University](https://www.uniroma3.it/) and the **MSc** at [Sapienza University Of Rome](https://www.uniroma1.it/it/), both in **Computer Science Engineering**🎓.
 
 Before starting the PhD, I worked as a full time **Machine Learning Engineer**👨‍💻 for [omninext](https://omninext.it/).
+
+My research centers on generative deep-learning methods, particularly diffusion models, for diverse image types and applications, including aerial and medical images, with a broader interest in computer vision and multimodal representation learning.
