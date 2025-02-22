@@ -5,6 +5,8 @@ date: 2024-09-17 10:25:00
 description: this is what yodobashi look like
 tags: audios yodobashi
 categories: sample-posts
+related_posts: false
+
 ---
 
 Yodobashi Camera
