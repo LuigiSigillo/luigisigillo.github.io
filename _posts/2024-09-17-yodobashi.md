@@ -6,7 +6,6 @@ description: this is what yodobashi look like
 tags: audios yodobashi
 categories: sample-posts
 related_posts: false
-
 ---
 
 Yodobashi Camera
