@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Officially joined the <a href="https://www.embl.org/groups/petroni/">Petroni team</a> at EMBL as a Postdoctoral Fellow. Excited to start building agentic AI solutions to accelerate scientific discovery.
+Officially joined the <a href="https://petronilab.org/">Petroni team</a> at EMBL as a Postdoctoral Fellow. Excited to start building agentic AI solutions to accelerate scientific discovery.
